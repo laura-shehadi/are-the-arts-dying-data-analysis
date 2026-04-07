@@ -1,4 +1,4 @@
-""" CSC271 Final Project by Laura Emily Shehadi
+""" A Project by Laura Emily Shehadi
 
 Are opera and musical theatre companies in Canada experiencing declining attendance, 
 performances, or ticket revenue between 2014 and 2024?
@@ -487,44 +487,4 @@ def plot_attendance_comparison(df: pd.DataFrame) -> plt.Figure:
 ###############################################################################
 
 if __name__ == '__main__':
-    # att_raw = load_data(ATTENDANCE_FILE)
-    # rev_raw = load_data(REVENUE_FILE)
-    # print('Attendance raw shape:', att_raw.shape)
-    # print('Revenue raw shape:', rev_raw.shape)
- 
-    # att = clean_attendance(att_raw)
-    # rev = clean_revenue(rev_raw)
-    # print('\nAttendance cleaned:')
-    # print(att)
-    # print('\nRevenue cleaned:')
-    # print(rev)
- 
-    # conn = create_connection(DB_PATH)
-    # create_tables(conn)
-    # insert_data(conn, att, ATTENDANCE_TABLE)
-    # insert_data(conn, rev, REVENUE_TABLE)
-    # print('\nDatabase created and populated.')
- 
-    # print('\nQuery 1 - JOIN:')
-    # print(query_join_attendance_revenue(conn))
-    # print('\nQuery 2 - GROUP BY + SUM:')
-    # print(query_total_revenue_by_year(conn))
-    # print('\nQuery 3 - Parameterized (from 2018):')
-    # print(query_from_year(conn, 2018))
- 
-    # joined = query_join_attendance_revenue(conn)
-    # att_change = compute_year_over_year_change(joined, 'total_attendance')
-    # print('\nYear-over-year attendance change:')
-    # print(att_change[['year', 'total_attendance', 'total_attendance_change', 'total_attendance_pct_change']])
-    # corr = compute_correlation(joined, 'total_attendance', 'performance_revenue')
-    # print('\nCorrelation (attendance vs revenue):', round(corr, 3))
- 
-    # plot_attendance_over_time(att).savefig('test_attendance.png')
-    # plot_performances_over_time(att).savefig('test_performances.png')
-    # plot_revenue_over_time(rev).savefig('test_revenue.png')
-    # plot_attendance_vs_revenue(joined).savefig('test_attendance_vs_revenue.png')
-    # plot_attendance_comparison(att_raw).savefig('test_comparison.png')
-    # print('\nPlots saved.')
-
-
     pass
