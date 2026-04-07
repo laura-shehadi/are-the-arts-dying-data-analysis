@@ -8,6 +8,7 @@ Using national data from 2014 to 2024, the project involves cleaning and restruc
 
 The goal is to evaluate a common cultural claim that traditional performing arts are fading.
 
+
 ## 🧠 Research Question
 
 Are opera and musical theatre companies in Canada experiencing declines in attendance, performances, or revenue over time?
@@ -46,6 +47,14 @@ Measure correlation between attendance and revenue
 ### Visualization
 
 Line charts and comparative plots were created to clearly illustrate trends and relationships across variables.
+
+## 🚀 View the Results
+
+To explore the full analysis and visualizations, open the notebook:
+
+👉 [View the notebook](project.ipynb)
+
+GitHub will render the notebook directly in your browser, including all charts and outputs.
 
 ## 📈 Key Insights
 
