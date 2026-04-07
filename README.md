@@ -77,7 +77,3 @@ This project combines data engineering, database design, and analytical thinking
 This project is publicly available for viewing and educational purposes only.
 No permission is granted to reuse, modify, or distribute this code.
 
-## 👤 Author
-
-Laura Emily Shehadi
-CSC271 Final Project
