@@ -20,12 +20,6 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 
 
-plot_attendance_over_time(att).savefig('images/attendance.png')
-plot_performances_over_time(att).savefig('images/performances.png')
-plot_revenue_over_time(rev).savefig('images/revenue.png')
-plot_attendance_vs_revenue(joined).savefig('images/attendance_vs_revenue.png')
-plot_attendance_comparison(att_raw).savefig('images/comparison.png')
-
 ###############################################################################
 # Constants
 ###############################################################################
