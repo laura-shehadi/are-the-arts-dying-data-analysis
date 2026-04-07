@@ -53,29 +53,6 @@ Attendance and performance trends reveal how audience engagement has evolved ove
 Revenue analysis highlights shifts in funding sources and financial stability
 Correlation analysis provides insight into how closely attendance and revenue are related
 
-## 🖼️ Visual Results
-
-Below are key visualizations generated from the analysis.
-
-### Attendance Over Time
-
-![Attendance Over Time](images/attendance.png)
-
-### Performances Over Time
-
-![Performances Over Time](images/performances.png)
-
-### Revenue Over Time
-
-![Revenue Over Time](images/revenue.png)
-
-### Attendance vs Revenue
-
-![Attendance vs Revenue](images/attendance_vs_revenue.png)
-
-### Category Comparison
-
-![Category Comparison](images/comparison.png)
 
 ## 📂 Project Structure
 
